@@ -1,0 +1,1 @@
+print( [data.split() for data in open("./data.dat","r") ] )
